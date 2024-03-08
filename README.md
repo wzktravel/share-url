@@ -6,14 +6,14 @@
     <img src="assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Url2Clipboard</h3>
+  <h3 align="center">ShareURL</h3>
 
   <p align="center">
-    Copy current tab URL to clipboard as Markdown
+    Share url you like.
     <br />
-    <a href="https://github.com/wzktravel/url2clipboard/issues">Report Bug</a>
+    <a href="https://github.com/wzktravel/shareurl/issues">Report Bug</a>
     ·
-    <a href="https://github.com/wzktravel/url2clipboard/issues">Request Feature</a>
+    <a href="https://github.com/wzktravel/shareurl/issues">Request Feature</a>
   </p>
 </div>
 
